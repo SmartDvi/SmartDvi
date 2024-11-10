@@ -2,7 +2,7 @@
 
 ## 🧠 **What am I interested in?**
   - Python development 🐍
-  - Data data science/analysis 📉
+  - Data science/analysis 📉
   - Data visualization 📊
 
 ## 🌱 **What am I currently learning?**
