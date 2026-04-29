@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Peters Moritus Azubuike
+# Peters Moritus
 ### Data Science Manager · MLOps Engineer · Full-Stack ML Developer
 **Lagos, Nigeria 🇳🇬**
 
